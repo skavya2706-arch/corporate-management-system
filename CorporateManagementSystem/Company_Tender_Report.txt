@@ -1,0 +1,42 @@
+==============================================
+          COMPANY TENDER REPORT
+==============================================
+
+Total Tenders : 3
+
+----------------------------------------------
+Tender ID     : 1
+Tender Name   : LLLT
+Company Name  : BAJRANF_CORP
+Tender Type   : Private
+Amount        : 6666.0
+Issue Date    : 2026-08-12
+Due Date      : 2029-04-09
+Tender Status : Sent
+----------------------------------------------
+
+----------------------------------------------
+Tender ID     : 2
+Tender Name   : VISUAL
+Company Name  : VVORTEX
+Tender Type   : Private
+Amount        : 699999.0
+Issue Date    : 2026-08-15
+Due Date      : 2026-07-15
+Tender Status : Received
+----------------------------------------------
+
+----------------------------------------------
+Tender ID     : 3
+Tender Name   : LJU WEB
+Company Name  : VANCITY DEV
+Tender Type   : Private
+Amount        : 788888.0
+Issue Date    : 2026-07-22
+Due Date      : 2026-12-29
+Tender Status : Sent
+----------------------------------------------
+
+==============================================
+              END OF REPORT
+==============================================
